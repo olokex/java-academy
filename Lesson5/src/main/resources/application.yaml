@@ -1,0 +1,5 @@
+# do not modify this file
+messages:
+  stringText1: Spring boot is awesome
+  stringText2: Quarkus sucks
+  integerValue: 5
